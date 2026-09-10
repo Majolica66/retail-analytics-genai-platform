@@ -39,6 +39,7 @@ Vertex AI Gemini Executive Summary
 ## Dashboard
 
 https://datastudio.google.com/reporting/f2d1cb28-cdf1-4f8a-bba3-eaf963fd7cab/page/tOc8F
+https://datastudio.google.com/reporting/33d94997-ba48-4ae6-a309-acc92757bf88/page/J6b8F
 
 ## Project Outcomes
 
