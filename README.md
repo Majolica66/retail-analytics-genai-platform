@@ -38,7 +38,7 @@ Vertex AI Gemini Executive Summary
 
 ## Dashboard
 
-Paste your Looker Studio URL here.
+https://datastudio.google.com/reporting/f2d1cb28-cdf1-4f8a-bba3-eaf963fd7cab/page/tOc8F
 
 ## Project Outcomes
 
