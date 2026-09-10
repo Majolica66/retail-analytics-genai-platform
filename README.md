@@ -1,4 +1,4 @@
-# Retail Analytics & GenAI Executive Reporting Platform
+# Retail Sales, Inventory Analytics & GenAI Executive Summary Platform
 
 ## Overview
 
